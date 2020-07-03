@@ -1,0 +1,6 @@
+module Pods_BanhBaoApp {
+  umbrella header "Pods-BanhBaoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
